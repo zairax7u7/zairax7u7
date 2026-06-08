@@ -31,7 +31,7 @@
 <!--                    📋 ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> **Sobre Mí**
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"> **Sobre Mí**
 
 ```yaml
 nombre: Jesus H. Montiel
