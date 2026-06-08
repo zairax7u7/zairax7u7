@@ -83,7 +83,6 @@ filosofía: "La tecnología es el motor del cambio"
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Analysis-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
     <td align="center">
       <h3> Data & AI</h3>
