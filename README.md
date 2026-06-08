@@ -1,7 +1,7 @@
 <div align="center">
   
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b2a4a,100:1e90ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20Project%20Manager&descAlignY=62&descSize=20&descFontColor=d0d0d0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0b2a4a,100:1e90ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DBA%20%7C%20Full%20Stack%20Developer%20%7C%20Project%20Manager&descAlignY=62&descSize=20&descFontColor=d0d0d0"/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=900&lines=Software+Developer;Administrador+de+Bases+de+Datos;An%C3%A1lisis+de+Datos;Desarrollo+Web;Desarrollo+Android;Desarrollo+Desktop;Arquitecturas+Limpias+y+Escalables;Dise%C3%B1o+UI%2FUX;Metodolog%C3%ADas+de+Desarrollo;Versionamiento+de+codigo
