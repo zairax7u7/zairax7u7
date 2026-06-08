@@ -6,9 +6,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  HI !! MY NAME IS JESÚS HERNÁNDEZ MONTIEL
 
-### 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-### ⚙️ Backend
+### Backend
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 </div>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 </div>
 
-### 🏗️ Architectures & Methodologies
+###  Architectures & Methodologies
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 </div>
 
-### 📊 Data Analysis & Deep Learning
+###  Data Analysis & Deep Learning
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 </div>
 
-### 🔧 DevOps & Tools
+###  DevOps & Tools
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 </div>
 
-### 💻 Operating Systems
+###  Operating Systems
 
 <div align="center">
 
@@ -93,16 +93,9 @@
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
-
-<!-- GitHub Stats - Versión que funciona -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zairax7u7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zairax7u7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-
 <!-- GitHub Streak - Nueva URL que funciona -->
 <img height="180em" src="https://streak-stats.demolab.com?user=Zairax7u7&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
 
@@ -113,18 +106,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophies con tema diferente que funciona mejor -->
-<img src="https://github-profile-trophy.vercel.app/?username=Zairax7u7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 
-## 🧠 Soft Skills
+##  Soft Skills
 
 <div align="center">
 
@@ -137,7 +121,7 @@
 
 ---
 
-## 🌐 Conecta Conmigo
+##  Conecta Conmigo
 
 <div align="center">
 
@@ -168,6 +152,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=150&section=footer&animation=fadeIn"/>
 
-### 💻 <i>"El código limpio no es escrito, es esculpido."</i>
+###  <i>"El código limpio no es escrito, es esculpido."</i>
 
 </div>
