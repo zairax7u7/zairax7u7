@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Jesus_H_Montiel-0A66C2?style=for-the-badge&labelColor=1a1a2e&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Zairax7u7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Zairax7u7-181717?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Ver_Perfil-181717?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white" />
 </a>
 
 </div>
