@@ -125,7 +125,7 @@ filosofía: "La tecnología es el motor del cambio"
 
 <br/>
 
-###  **Metodologías Ágiles**
+###  **Metodologías Ágiles & Normalización de Datos**
 <div align="center">
   
   <!-- Metodologías -->
