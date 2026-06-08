@@ -4,7 +4,7 @@
 <!--                    🎨 HEADER ANIMADO                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Professional%20Firmware%20%26%20Software%20Developer&descAlignY=62&descSize=20&descFontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Professional%20Firmware%20&%20Software%20Developer&descAlignY=62&descSize=20&descFontColor=ffffff"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ✍️ TYPING ANIMATION                       -->
