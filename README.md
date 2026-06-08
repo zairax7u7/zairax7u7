@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jesús Hernández Montiel👋
 
-<!--
-**zairax7u7/zairax7u7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Development | Cybersecurity | Project Management
 
-Here are some ideas to get you started:
+Passionate about technology, software architecture, cybersecurity, and digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies
+- C#
+- .NET
+- SQL Server
+- MySQL
+- Android
+- REST APIs
+- IoT
+- Cybersecurity
+
+### 📊 Areas of Expertise
+- Full Stack Development
+- Software Architecture
+- Database Administration
+- Data Analytics
+- Project Management
+- Digital Transformation
+
+### 📫 Contact
+- LinkedIn: linkedin.com/in/
+- Email: 
