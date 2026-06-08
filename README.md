@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Professional%20Firmware%20&%20Software%20Developer&descAlignY=62&descSize=20&descFontColor=ffffff"/>
 
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=+Professional+Software+Developer;+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n;+Arquitecturas+Limpias+y+Escalables;An%C3%A1lisis+de+Datos+y+Business+Intelligence;APIRESTFul+y+Microservicios;Soluciones+Eficientes+y+Seguras;Desarrollo+Android](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=C9A24E&center=true&vCenter=true&width=1400&lines=Software+Developer;Software+Architecture+Enthusiast;Database+Administrator;Data+Analytics+%26+Business+Intelligence;Web+%7C+Android+%7C+Desktop+Development;RESTful+APIs+%26+Microservices;Clean+Architecture+%7C+Hexagonal+Architecture;Scalable+and+Secure+Software+Solutions;UI%2FUX+Design+for+Modern+Applications;Scrum+%7C+Agile+%7C+Project+Management;Database+Normalization+(1NF+2NF+3NF+BCNF+5NF);Git+GitHub+GitFlow+%7C+DevOps;Technology+Innovation+and+Digital+Transformation))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=+Software+Developer;+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n;+Arquitecturas+Limpias+y+Escalables;An%C3%A1lisis+de+Datos+y+Business+Intelligence;APIRESTFul+y+Microservicios;Soluciones+Eficientes,+seguras+y+Escalables+Seguras;Desarrollo+Android)](https://git.io/typing-svg)
 
 <br/>
 
