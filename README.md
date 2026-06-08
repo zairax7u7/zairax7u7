@@ -222,7 +222,7 @@ filosofía: "La tecnología es el motor del cambio"
 <img src="https://img.shields.io/badge/_TOP-3-4ECDC4?style=flat-square" /> Gestión de bases de datos y análisis de datos para optimización de procesos  
 <img src="https://img.shields.io/badge/_TOP-4-FF9F43?style=flat-square" /> Colaboración en equipos multidisciplinarios usando metodologías ágiles  
 <img src="https://img.shields.io/badge/_TOP-5-FF6B6B?style=flat-square" /> Contribución a la innovación tecnológica en procesos de manufactura  
-<img src="https://img.shields.io/badge/_TOP-6-6C5CE7?style=flat-square" /> Desarrollo de aplicaciones .NET Core 8 y Angular para sistemas internos  
+<img src="https://img.shields.io/badge/_TOP-6-6C5CE7?style=flat-square" /> Desarrollo de aplicaciones Web, APIRESTFul, Android, Desktop entre otras. 
  
 
 </div>
