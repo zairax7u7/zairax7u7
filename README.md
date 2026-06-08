@@ -13,7 +13,7 @@
 > Specialization: Full-Stack | Cloud | AI | Architecture
 > Coffee Level: ████████████████████ 100%
 > Current Mission: Transforming ideas into scalable solutions
-
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+FULL+STACK+DEVELOPER;⚡+CLEAN+CODE+EVANGELIST;🔥+ARCHITECTURE+MASTER;💎+PROBLEM+SOLVER;🎯+INNOVATION+DRIVEN" alt="Typing SVG"/>
