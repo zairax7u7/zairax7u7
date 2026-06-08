@@ -97,11 +97,17 @@
 
 <div align="center">
 
+<!-- GitHub Stats - Versión que funciona -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zairax7u7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
 
+<!-- Top Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zairax7u7&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Zairax7u7&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
+<!-- GitHub Streak - Nueva URL que funciona -->
+<img height="180em" src="https://streak-stats.demolab.com?user=Zairax7u7&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
+
+<!-- Activity Graph - Alternativa que siempre funciona -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zairax7u7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -111,7 +117,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zairax7u7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+<!-- Trophies con tema diferente que funciona mejor -->
+<img src="https://github-profile-trophy.vercel.app/?username=Zairax7u7&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -134,12 +141,13 @@
 
 <div align="center">
 
+<!-- Portfolio con imagen mejorada -->
 <a href="https://zairax7u7.github.io/jesushmontiel/portafolio.html" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mi+Portafolio&color=8B5CF6&logo=Google-Chrome&logoColor=FFFFFF&label=🌐" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🚀_Mi_Portafolio-8B5CF6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/Zairax7u7" target="_blank">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
