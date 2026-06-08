@@ -1,42 +1,52 @@
 <div align="center">
+  
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🎨 HEADER ANIMADO                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:8B5CF6,50:06B6D4,75:10B981,100:FF00FF&height=300&section=header&text=JESÚS%20H.%20MONTIEL&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡SENIOR%20SOFTWARE%20ARCHITECT⚡&descAlignY=55&descSize=25&descFontColor=00FFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Professional%20Firmware%20%26%20Software%20Developer&descAlignY=62&descSize=20&descFontColor=ffffff" width="100%"/>
 
-<div align="left">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ✍️ TYPING ANIMATION                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```bash
-┌──(root㉿kali)-[~/jesus-montiel]
-└─# whoami
-> Jesus H. Montiel | Software Developer
-> Location: Mexico 🇲🇽
-> Status: Building the future, one line at a time...
-> Specialization: Full-Stack | Cloud | AI | Architecture
-> Coffee Level: ████████████████████ 100%
-> Current Mission: Transforming ideas into scalable solutions
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=💻+Professional+Firmware+Developer;🚀+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n;🏗️+Arquitecturas+Limpias+y+Microservicios;📊+An%C3%A1lisis+de+Datos+y+Business+Intelligence;🤖+Deep+Learning+y+Transformers;⚡+Soluciones+Eficientes+y+Seguras)](https://git.io/typing-svg)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+FULL+STACK+DEVELOPER;⚡+CLEAN+CODE+EVANGELIST;🔥+ARCHITECTURE+MASTER;💎+PROBLEM+SOLVER;🎯+INNOVATION+DRIVEN" alt="Typing SVG"/>
-</p>
+<br/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Zairax7u7&label=👁️+PROFILE+VIEWS&color=ff00ff&style=for-the-badge&abbreviated=true" alt="views"/>
-<img src="https://img.shields.io/github/followers/Zairax7u7?style=for-the-badge&color=00ffff&logo=github&label=FOLLOWERS" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Zairax7u7?style=for-the-badge&color=ffff00&logo=star&label=STARS" alt="stars"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🔗 BADGES DE CONTACTO                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-</div>
-
-<div align="center">
-
-🎮 SELECT YOUR DESTINATION
-<table>
-<tr>
-<td width="25%" align="center"><a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_ABOUT-FF00FF?style=for-the-badge" alt="About"/></a></td>
-<td width="25%" align="center"><a href="#-tech-arsenal"><img src="https://img.shields.io/badge/⚡_TECH-00FFFF?style=for-the-badge" alt="Tech"/></a></td>
-<td width="25%" align="center"><a href="#-github-metrics"><img src="https://img.shields.io/badge/📊_STATS-FFFF00?style=for-the-badge" alt="Stats"/></a></td>
-<td width="25%" align="center"><a href="#-connect-with-me"><img src="https://img.shields.io/badge/🌐_CONNECT-00FF00?style=for-the-badge" alt="Connect"/></a></td>
-</tr>
-</table>
+<a href="https://zairax7u7.github.io/jesushmontiel/portafolio.html" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portafolio-Ver_Mis_Proyectos-FF6B6B?style=for-the-badge&labelColor=1a1a2e&logo=google-chrome&logoColor=white" />
+</a>
+<a href="http://www.linkedin.com/in/jesushmontiel" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jesus_H_Montiel-0A66C2?style=for-the-badge&labelColor=1a1a2e&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Zairax7u7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Zairax7u7-181717?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    📋 ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre Mí**
+
+```yaml
+nombre: Jesus H. Montiel
+rol: Professional Firmware & Software Developer
+ubicación: México
+experiencia:
+  - Gestión de Proyectos
+  - Desarrollo de Software
+  - Bases de Datos
+  - Análisis de Datos
+  - Innovación Tecnológica
+enfoque: "Crear soluciones eficientes, seguras y orientadas a resultados"
+filosofía: "La tecnología es el motor del cambio"
