@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7928ca,100:00d4ff&height=250&section=header&text=Jesus%20H.%20Montiel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Professional%20Firmware%20&%20Software%20Developer&descAlignY=62&descSize=20&descFontColor=ffffff"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=+Professional+Software+Developer;+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n;+Arquitecturas+Limpias+y;An%C3%A1lisis+de+Datos+y+Business+Intelligence;APIRESTFul+Microservicios;Soluciones+Eficientes+y+Seguras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=+Professional+Software+Developer;+Apasionado+por+la+Tecnolog%C3%ADa+y+la+Innovaci%C3%B3n;+Arquitecturas+Limpias+y+Escalables;An%C3%A1lisis+de+Datos+y+Business+Intelligence;APIRESTFul+Microservicios;Soluciones+Eficientes+y+Seguras)](https://git.io/typing-svg)
 
 <br/>
 
