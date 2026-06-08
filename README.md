@@ -62,6 +62,7 @@ filosofía: "La tecnología es el motor del cambio"
       <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI/UX_Design-6C5CE7?style=for-the-badge&logo=figma&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <h3> Backend & Desktop</h3>
