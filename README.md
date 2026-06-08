@@ -35,8 +35,8 @@
 
 ```yaml
 nombre: Jesus H. Montiel
-rol: Professional Firmware & Software Developer
-ubicación: México
+rol: Project Manager | Full Stack Software Development & DBA — JR
+ubicación: Monterrey, México
 experiencia:
   - Gestión de Proyectos
   - Desarrollo de Software
